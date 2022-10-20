@@ -9,3 +9,5 @@
 - 🤔 I’m looking for a new `job opportunity`
 - 💬 Contact me if you have similar projects or ideas for collaboration. 
 - 📫 You can reach me on [![](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mark-creasey/)
+
+<img src="./my_journey.gif" width="100%">
